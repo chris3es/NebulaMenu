@@ -1,3 +1,3 @@
-<img width="601" height="606" alt="image" src="https://github.com/user-attachments/assets/2e7d96c8-4d58-4962-bcca-209bce66bbe2" />
+<img width="360" height="353" alt="image" src="https://github.com/user-attachments/assets/50c6539c-df4b-4c21-9182-506a8f5f0588" />
 
 NebulaMenu is a fully custom RGB‑powered mod menu for Among Us, built with a clean modular architecture and a cosmic visual identity. Designed for fast iteration and frictionless expansion, it delivers a draggable UI, animated RGB accents, toggle‑based features, and a flexible framework for adding movement mods, teleport tools, visual tweaks, and more. This project focuses on originality, performance, and a polished user experience without copying any existing menus or frameworks.
